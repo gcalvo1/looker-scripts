@@ -29,7 +29,7 @@ for dashboard_id in dashboard_id_list:
 
 # Export to csv	
 now = datetime.datetime.now()				
-with open("S:\EIS\Looker\API\Repository Documenter\Looker_Queries_" + now.strftime("%Y%m%d") + ".csv", "w", newline='') as f:
+with open("YOUR\DIRECTORY\FILENAME_" + now.strftime("%Y%m%d") + ".csv", "w", newline='') as f:
 	writer = csv.writer(f)
 	writer.writerow(['Dashboard Title','Vis Title','Query ID','Model','View','Fields'])
 	writer.writerows(dashboard_query_info_list)
