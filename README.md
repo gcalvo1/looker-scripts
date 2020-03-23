@@ -14,9 +14,6 @@ Python script that exports query info about visualizations in all dashboards int
 	<li>View</li>
 	<li>Fields</li>
 </ul>
-<p>
-Python script that identifies Looker users whose user space is not secure. By default, a new Looker user's personal space is public to all users. This script will make those spaces private.
-</p>
 <h3> Secure User Spaces </h3>
 <p>
 Python script that identifies Looker users whose user space is not secure. By default, a new Looker user's personal space is public to all users. This script will make those spaces private.
