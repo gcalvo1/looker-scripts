@@ -1,4 +1,4 @@
-# looker-scripts
+#looker-scripts
 
 <h3> Merged Query Search </h3>
 <p>
