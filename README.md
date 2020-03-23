@@ -1,4 +1,4 @@
-# eis-looker-scripts
+# looker-scripts
 
 <h3> Secure User Spaces </h3>
 <p>
