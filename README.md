@@ -1,10 +1,9 @@
-# looker-scripts
-
-<h3> <strong> Merged Query Search </strong> </h3>
+# Merged Query Search
 <p>
 Python script that prints the number, and the ids, of dashboards containing merged queries
 </p>
-<h3> <strong> Repository Documenter </strong> </h3>
+
+# Repository Documenter
 Python script that exports query info about visualizations in all dashboards into a .csv file. Documented fields include:
 <ul>
 	<li>Dashboard Title</li>
@@ -14,12 +13,13 @@ Python script that exports query info about visualizations in all dashboards int
 	<li>View</li>
 	<li>Fields</li>
 </ul>
-<h3> <strong> Secure User Spaces </strong> </h3>
+
+# Secure User Spaces
 <p>
 Python script that identifies Looker users whose user space is not secure. By default, a new Looker user's personal space is public to all users. This script will make those spaces private.
 </p>
 
-<h3> <strong> User Downgrade </strong> </h3>
+# User Downgrade
 <p>
 Python script that identifies two types of users:
 <ol>
